@@ -1,0 +1,21 @@
+#n{
+    display: flex;
+    text-align: center;
+    list-style: none;
+    float:left;
+
+}
+.nav-link{
+    list-style: none;
+    float:left;
+    font-size: 50px;
+    color:rgb(142, 89, 190);
+}
+#form{
+    width:300px;
+    height:400px;
+    margin-top: 700px;
+    font-size: 16px;
+    color:white;
+    background-color: black;
+}
